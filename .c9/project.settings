@@ -1,4 +1,13 @@
 {
+    "ace": {
+        "@useSoftTabs": false
+    },
+    "golang": {
+        "@formatOnSave": false
+    },
+    "instance": {
+        "@automaticShutdown": "30"
+    },
     "language": {
         "tern_defs": {
             "json()": {
@@ -13,6 +22,9 @@
                 }
             }
         }
+    },
+    "python": {
+        "@formatOnSave": true
     },
     "run": {
         "configs": {

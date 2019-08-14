@@ -1,0 +1,4 @@
+Django==1.11
+Pillow==5.4.1
+pytz==2019.2
+virtualenv==16.7.2
